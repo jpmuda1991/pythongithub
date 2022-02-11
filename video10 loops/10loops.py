@@ -1,4 +1,4 @@
-#Lien video youtube:
+#Lien video youtube: video pas encore uploader
 
 
 #une boucle qui imprime tout les nombres paires entre  2 et 28
